@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Rodrigo Puertas 
-- 🔭 Estudando pyton e C#
+- 🔭 Estudando python e C#
 - 💻 Analista de dados 
   
  <div>
