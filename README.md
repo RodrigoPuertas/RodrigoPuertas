@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Puertas 
-- 🔭 Estudando python, C#, react native e java.
-- 💻 Analista de dados 
+- 🔭 Estudando **Python**, **C#**, **React Native** e **Java**.
+- 💻 **Analista de Dados**
   
  <div>
   <a href="https://github.com/RodrigoPuertas">
